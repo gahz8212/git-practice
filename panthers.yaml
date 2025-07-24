@@ -1,11 +1,12 @@
 team: Panthers
 
-manager: Sebastian
+manager: Park
 
 coach: Shirley
 
 members:
-- Violet
-- Stella
-- Anthony
-- Freddie
+  - Violet
+  - Stella
+  - Anthony
+  - Freddie
+  - Lee
