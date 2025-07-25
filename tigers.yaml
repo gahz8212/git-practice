@@ -1,17 +1,9 @@
 team: Tigers
 
-manager: Ryu
-
-coach: Ruth
+manager: Donald
 
 members:
-  - Linda
-  - William
-  - David
-  - George
-  - Tyler
-  - Kim
-  - Park
-  - Lim
-  - Yun
-fetch: this
+- Linda
+- William
+- David
+- George
